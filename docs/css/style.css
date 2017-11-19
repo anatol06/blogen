@@ -1,2 +1,6 @@
 @import url(bootstrap.css);
 @import url(font-awesome.min.css);
+#main-footer .lead {
+  font-size: 13px;
+  color: #999;
+  font-weight: 400; }
